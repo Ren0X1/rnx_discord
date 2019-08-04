@@ -1,5 +1,5 @@
-local appid = '561489357140262912'
-local asset = 'condenados'
+local appid = 'APPID'
+local asset = 'ASSETID'
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(2500)
